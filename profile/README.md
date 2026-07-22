@@ -1,6 +1,11 @@
 <br />
 <p align="center">
-    <a href="https://www.octoparse.com" target="_blank"><img src="./images/logo.svg" alt="Octoparse Logo" width="360"></a>
+    <a href="https://www.octoparse.com" target="_blank">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./images/logo-white.png">
+            <img src="./images/logo-blue.png" alt="Octoparse Logo" width="400">
+        </picture>
+    </a>
     <br />
     <br />
 </p>
