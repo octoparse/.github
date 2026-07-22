@@ -34,7 +34,3 @@
     <li>Read guides, use cases, and deep dives on the <a href="https://www.octoparse.com/blog">Octoparse Blog</a>.</li>
     <li>Watch tutorials on the <a href="https://www.youtube.com/c/Octoparse">Octoparse YouTube channel</a>.</li>
 </ul>
-
-<h2>We are hiring! 🕸️</h2>
-
-Check out the [open positions](https://www.octoparse.com/about-us) at Octoparse and help us make web data accessible to everyone.
