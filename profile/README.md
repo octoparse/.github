@@ -36,7 +36,8 @@
 <h2>Web Data for Everyone 🐙</h2>
 
 <ul>
-    <li><b>Everyone</b> — Extract data from any website with the <a href="https://www.octoparse.com/download">Octoparse app</a>: point, click, and scrape, or start instantly with hundreds of preset scrapers in the <a href="https://www.octoparse.com/template">Template Store</a>.</li>
+    <li><b>Everyone</b> — Extract data from any website with the <a href="https://www.octoparse.com/download">Octoparse app</a>: point, click, and scrape.</li>
+    <li><b>Starters</b> — Skip the setup with hundreds of preset scrapers in the <a href="https://www.octoparse.com/template">Template Store</a>.</li>
     <li><b>Power users</b> — Build advanced workflows with scheduling, cloud extraction, IP rotation, and automatic data export to your favorite tools.</li>
     <li><b>Developers</b> — Automate scraping pipelines from the terminal with the <a href="https://github.com/octoparse/octoparse-cli">Octoparse CLI</a> and integrate data into your stack via API.</li>
     <li><b>AI agents</b> — Connect agents to real-time web data with the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
