@@ -3,7 +3,10 @@
     <a href="https://www.octoparse.com" target="_blank"><img src="./images/logo.svg" alt="Octoparse Logo" width="360"></a>
     <br />
     <br />
-    <b>Easy web scraping for anyone. Octoparse turns websites into structured data — whether you point and click, script it, or send your AI agents. We're building the Data OS for enterprises and agents.</b>
+    <b>Easy web scraping for anyone.</b>
+    <br />
+    <br />
+    <b>Octoparse turns websites into structured data — whether you point and click, script it, or send your AI agents. We're building the Data OS for enterprises and agents.</b>
 </p>
 
 <h4 align="center">
