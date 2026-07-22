@@ -36,10 +36,9 @@
 <h2>Web Data for Everyone 🐙</h2>
 
 <ul>
-    <li><b>Everyone</b> — Extract data from any website with the <a href="https://www.octoparse.com/download">Octoparse app</a>: point, click, and scrape.</li>
-    <li><b>Starters</b> — Skip the setup with hundreds of preset scrapers in the <a href="https://www.octoparse.com/template">Template Store</a>.</li>
-    <li><b>Power users</b> — Build advanced workflows with scheduling, cloud extraction, IP rotation, and automatic data export to your favorite tools.</li>
-    <li><b>Developers</b> — Automate scraping pipelines from the terminal with the <a href="https://github.com/octoparse/octoparse-cli">Octoparse CLI</a> and integrate data into your stack via API.</li>
+    <li><b>Starters</b> — Grab data from popular sites instantly with ready-made scrapers in the <a href="https://www.octoparse.com/template">Template Store</a>, or build a custom scraper with auto-detect and a few clicks to confirm.</li>
+    <li><b>Power users</b> — Take full control of auto-detected scrapers: fine-tune every step, then scale up with scheduling, cloud extraction, and IP rotation.</li>
+    <li><b>Developers</b> — Experience Octoparse right from your stack with the <a href="https://github.com/octoparse/octoparse-cli">Octoparse CLI</a> and the <a href="https://github.com/octoparse/octoparse-mcp">MCP server</a>.</li>
     <li><b>AI agents</b> — Connect agents to real-time web data with the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
     <li><b>Enterprises</b> — Need data at scale, delivered? Our team handles the entire pipeline with <a href="https://www.octoparse.com/data-service">Octoparse Data Service</a>.</li>
 </ul>
