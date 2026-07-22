@@ -19,17 +19,20 @@
 </p>
 
 <h4 align="center">
-  <a href="https://x.com/OctoparseData">
+  <a href="https://discord.gg/zCq9WDmEPa">
+    <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="Discord">
+  </a>
+  <a href="https://twitter.com/Octoparse">
     <img src="https://img.shields.io/badge/twitter-18a1d6.svg?style=flat-square" alt="X/Twitter">
   </a>
-  <a href="https://www.youtube.com/c/Octoparse">
+  <a href="https://www.youtube.com/@Octoparsewebscraping">
     <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square" alt="YouTube">
   </a>
-  <a href="https://www.linkedin.com/company/octoparse">
+  <a href="https://www.linkedin.com/company/octopus-data-inc.">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn">
   </a>
-  <a href="https://www.facebook.com/octoparse">
-    <img src="https://img.shields.io/badge/facebook-3b5998?style=flat-square" alt="Facebook">
+  <a href="https://www.reddit.com/r/OctoparseCommuity/">
+    <img src="https://img.shields.io/badge/reddit-ff4500.svg?style=flat-square" alt="Reddit">
   </a>
 </h4>
 
@@ -48,5 +51,5 @@
 <ul>
     <li>Learn web scraping step by step at the <a href="https://helpcenter.octoparse.com/">Octoparse Help Center</a>.</li>
     <li>Read guides, use cases, and deep dives on the <a href="https://www.octoparse.com/blog">Octoparse Blog</a>.</li>
-    <li>Watch tutorials on the <a href="https://www.youtube.com/c/Octoparse">Octoparse YouTube channel</a>.</li>
+    <li>Watch tutorials on the <a href="https://www.youtube.com/@Octoparsewebscraping">Octoparse YouTube channel</a>.</li>
 </ul>
