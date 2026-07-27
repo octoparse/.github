@@ -10,6 +10,8 @@
     <br />
 </p>
 
+<p align="center"><i>The merge of no-code and yes-code is almost complete.</i></p>
+
 <h3 align="center">Easy web scraping for anyone.</h3>
 
 <p align="center">
