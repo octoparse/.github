@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square" alt="YouTube">
   </a>
   <a href="https://www.linkedin.com/company/octopus-data-inc.">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-0077b5.svg?style=flat-square" alt="LinkedIn">
   </a>
 </h4>
 
