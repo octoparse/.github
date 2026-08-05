@@ -24,8 +24,8 @@
   <a href="https://discord.gg/zCq9WDmEPa">
     <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="Discord">
   </a>
-  <a href="https://twitter.com/Octoparse">
-    <img src="https://img.shields.io/badge/twitter-18a1d6.svg?style=flat-square" alt="X/Twitter">
+  <a href="https://x.com/Octoparse">
+    <img src="https://img.shields.io/badge/X-000000.svg?style=flat-square" alt="X/Twitter">
   </a>
   <a href="https://www.youtube.com/@Octoparsewebscraping">
     <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square" alt="YouTube">
