@@ -33,9 +33,6 @@
   <a href="https://www.linkedin.com/company/octopus-data-inc.">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square" alt="LinkedIn">
   </a>
-  <a href="https://www.reddit.com/r/OctoparseCommuity/">
-    <img src="https://img.shields.io/badge/reddit-ff4500.svg?style=flat-square" alt="Reddit">
-  </a>
 </h4>
 
 <h2>Web Data for Everyone 🐙</h2>
