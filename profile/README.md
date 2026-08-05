@@ -22,16 +22,16 @@
 
 <h4 align="center">
   <a href="https://discord.gg/zCq9WDmEPa">
-    <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289da.svg?style=flat-square" alt="Discord">
   </a>
   <a href="https://x.com/Octoparse">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000.svg?style=flat-square" alt="X/Twitter">
   </a>
   <a href="https://www.youtube.com/@Octoparsewebscraping">
-    <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-d95652.svg?style=flat-square" alt="YouTube">
   </a>
   <a href="https://www.linkedin.com/company/octopus-data-inc.">
-    <img src="https://img.shields.io/badge/linkedin-0077b5.svg?style=flat-square" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5.svg?style=flat-square" alt="LinkedIn">
   </a>
 </h4>
 
