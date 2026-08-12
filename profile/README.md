@@ -15,7 +15,7 @@
 <h2 align="center">Easy web scraping for anyone</h2>
 
 <p align="center">
-    <b>Octoparse turns websites into structured data — run a template, let an agent explore it, or point and click.</b>
+    <b>Octoparse turns websites into structured data — run a template, auto-detect the page, or point and click.</b>
     <br />
     <b>We're building the web data layer for enterprises and AI agents, with the infrastructure to back it at scale.</b>
 </p>
@@ -40,8 +40,8 @@
 
 <ul>
     <li>Find a ready-made scraper for the site you need among 600+ in the <a href="https://www.octoparse.com/template">Octoparse Template Store</a>.</li>
-    <li>Build your own without writing code in <a href="https://www.octoparse.com/download">Octoparse Desktop</a>, where auto-detect writes the selectors for you.</li>
-    <li>Or just describe what you want, and let Octoparse explore the site and build the scraper.</li>
+    <li>Build your own without writing code in <a href="https://www.octoparse.com/download">Octoparse Desktop</a>, where auto-detect writes the rules for you.</li>
+    <li>Auto-detect pairs algorithmic page analysis with AI exploration, so it handles the sites no template covers.</li>
     <li>Run your tasks in the cloud — split across servers, on a schedule, with IP rotation.</li>
     <li>Drive it all from your own code with the <a href="https://www.octoparse.com/ai-open-platform">Octoparse API</a> and <a href="https://github.com/octoparse/octoparse-cli">CLI</a>.</li>
     <li>Connect your AI agents to live web data with the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
