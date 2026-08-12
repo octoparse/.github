@@ -17,7 +17,7 @@
 <p align="center">
     <b>Octoparse turns websites into structured data — whether you point and click, script it, or send your AI agents.</b>
     <br />
-    <b>We're building the Data OS for enterprises and agents — one platform to collect, structure, and deliver web data.</b>
+    <b>We're building the web data layer for enterprises and AI agents — one platform to collect, structure, and deliver the data they run on.</b>
 </p>
 
 <h4 align="center">
@@ -38,12 +38,15 @@
 <h2>Web Data for Everyone 🐙</h2>
 
 <ul>
-    <li><b>Starters</b> — Grab data from popular sites instantly with ready-made scrapers in the <a href="https://www.octoparse.com/template">Template Store</a>, or build a custom scraper with auto-detect and a few clicks to confirm.</li>
-    <li><b>Power users</b> — Take full control of auto-detected scrapers: fine-tune every step, then scale up with scheduling, cloud extraction, and IP rotation.</li>
-    <li><b>Developers</b> — Experience Octoparse right from your stack with the <a href="https://github.com/octoparse/octoparse-cli">Octoparse CLI</a> and the <a href="https://github.com/octoparse/octoparse-mcp">MCP server</a>.</li>
-    <li><b>AI agents</b> — Connect agents to real-time web data with the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
-    <li><b>Enterprises</b> — Need data at scale, delivered? Our team handles the entire pipeline with <a href="https://www.octoparse.com/data-service">Octoparse Data Service</a>.</li>
+    <li><b>Starters</b> — Three ways to your first scraper: pick a ready-made one from the <a href="https://www.octoparse.com/template">Template Store</a>, tell Octoparse what you need on the web and let it explore the site right in your own browser, or open Octoparse Desktop and let auto-detect do the work — you just confirm.</li>
+    <li><b>Tinkerers</b> — Want control over how the data comes out? Open the auto-detected scraper in Octoparse Desktop, adjust any step, then scale up with scheduling, cloud extraction, and IP rotation.</li>
+    <li><b>Developers</b> — Drive Octoparse from your own stack with the <a href="https://github.com/octoparse/octoparse-cli">Octoparse CLI</a> — scriptable, schedulable, and at home in your pipeline.</li>
+    <li><b>AI agents</b> — Let your agents pull real-time web data themselves, through the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and ready-made <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
 </ul>
+
+<h2>Ready to Scale 🚀</h2>
+
+<p>However you build, you can run it as a team on the <a href="https://www.octoparse.com/enterprise">Enterprise plan</a> — every task asset owned by you, managed together in one console. Or skip building entirely: <a href="https://www.octoparse.com/data-service">Octoparse Data Service</a> is fully managed, end to end.</p>
 
 <h2>Learn More 🧑‍🎓</h2>
 
