@@ -45,8 +45,8 @@
     <li>Run your tasks in the cloud — split across servers, on a schedule, with IP rotation.</li>
     <li>Drive it all from your own code with the <a href="https://www.octoparse.com/ai-open-platform">Octoparse API</a> and <a href="https://github.com/octoparse/octoparse-cli">CLI</a>.</li>
     <li>Connect your AI agents to live web data with the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
-    <li>Hand the whole pipeline to us with <a href="https://www.octoparse.com/data-service">Data Service</a>, built for <a href="https://www.octoparse.com/enterprise">enterprise</a> data needs.</li>
+    <li>Scale your team's own scraping on an <a href="https://www.octoparse.com/enterprise">Enterprise</a> plan — seats, a shared console, and task assets your team owns.</li>
+    <li>Or skip building altogether: <a href="https://www.octoparse.com/data-service">Data Service</a> has the Octoparse team run the whole pipeline and deliver the data to you.</li>
     <li>Learn web scraping step by step at the <a href="https://helpcenter.octoparse.com/">Octoparse Help Center</a>, or dig into the <a href="https://www.octoparse.com/docs">docs</a>.</li>
     <li>Watch tutorials on the <a href="https://www.youtube.com/@Octoparsewebscraping">Octoparse YouTube channel</a> and read deep dives on the <a href="https://www.octoparse.com/blog">Octoparse Blog</a>.</li>
-    <li>Ask questions and show what you built in our <a href="https://discord.gg/zCq9WDmEPa">Discord</a>.</li>
 </ul>
