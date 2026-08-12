@@ -46,7 +46,7 @@
 
 <h2>Ready to Scale 🚀</h2>
 
-<p><a href="https://www.octoparse.com/pricing">Start free</a>, then grow into it: Standard and Professional add scheduling, cloud extraction, and IP rotation, and <a href="https://www.octoparse.com/enterprise">Enterprise</a> adds seats, a shared console, and task assets your team owns. Or skip building entirely — <a href="https://www.octoparse.com/data-service">Octoparse Data Service</a> is fully managed, end to end.</p>
+<p><a href="https://www.octoparse.com/pricing">Start free</a>, then grow: Standard and Professional add scheduling, cloud extraction, and IP rotation; <a href="https://www.octoparse.com/enterprise">Enterprise</a> adds seats, a shared console, and task assets your team owns. Or let <a href="https://www.octoparse.com/data-service">Data Service</a> run it all for you.</p>
 
 <h2>Learn More 🧑‍🎓</h2>
 
