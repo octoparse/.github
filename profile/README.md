@@ -17,7 +17,7 @@
 <p align="center">
     <b>Octoparse turns websites into structured data — whether you point and click, script it, or send your AI agents.</b>
     <br />
-    <b>We're building the web data layer for enterprises and AI agents — one platform to collect, structure, and deliver the data they run on.</b>
+    <b>We're building the web data layer for enterprises and AI agents — collect it, structure it, deliver it.</b>
 </p>
 
 <h4 align="center">
