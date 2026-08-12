@@ -40,7 +40,7 @@
 
 <ul>
     <li>Find a ready-made scraper for the site you need among 600+ in the <a href="https://www.octoparse.com/template">Octoparse Template Store</a>.</li>
-    <li>Point <a href="https://www.octoparse.com/download">Octoparse Desktop</a> at a page and auto-detect turns it into an editable workflow — no code, and every step is yours to adjust.</li>
+    <li>Point <a href="https://www.octoparse.com/download">Octoparse Desktop</a> at a page and auto-detect turns it into a workflow you can edit, step by step, with no code.</li>
     <li>Or let AI explore the site and build the scraper for you, then refine what it built in plain language.</li>
     <li>Run your tasks in the cloud — split across servers, on a schedule, with IP rotation.</li>
     <li>Drive it all from your own code with the <a href="https://www.octoparse.com/ai-open-platform">Octoparse API</a> and <a href="https://github.com/octoparse/octoparse-cli">CLI</a>.</li>
