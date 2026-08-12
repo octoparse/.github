@@ -46,7 +46,10 @@
 
 <h2>Ready to Scale 🚀</h2>
 
-<p>Every path above is <a href="https://www.octoparse.com/pricing">free to start</a> — the desktop app is a free download, and each comes with credits to try. Upgrade when you outgrow them: Standard and Professional add scheduling, cloud extraction, and IP rotation; <a href="https://www.octoparse.com/enterprise">Enterprise</a> adds seats, a shared console, and task assets you own. Or hand it to <a href="https://www.octoparse.com/data-service">Data Service</a>.</p>
+<ul>
+    <li><b>Free, Standard, Professional</b> — Every path above is <a href="https://www.octoparse.com/pricing">free to start</a>: the desktop app is a free download, with credits to try. Upgrade in a click for scheduling, cloud extraction, and IP rotation.</li>
+    <li><b>Enterprise and Data Service</b> — Seats, a shared console, and task assets your team owns, on an SLA with usage-based pricing. Talk to us about <a href="https://www.octoparse.com/enterprise">Enterprise</a> or fully managed <a href="https://www.octoparse.com/data-service">Data Service</a>.</li>
+</ul>
 
 <h2>Learn More 🧑‍🎓</h2>
 
