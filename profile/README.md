@@ -15,7 +15,7 @@
 <h2 align="center">Easy web scraping for anyone</h2>
 
 <p align="center">
-    <b>Octoparse turns websites into structured data — start from a template, a chat, or a workflow.</b>
+    <b>Octoparse turns websites into structured data — start from a template, a chat, or an auto-detected workflow.</b>
     <br />
     <b>We're building the web data layer for enterprises and AI agents, with the infrastructure to back it at scale.</b>
 </p>
