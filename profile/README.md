@@ -55,6 +55,8 @@
 
 <ul>
     <li>Learn web scraping step by step at the <a href="https://helpcenter.octoparse.com/">Octoparse Help Center</a>.</li>
-    <li>Read guides, use cases, and deep dives on the <a href="https://www.octoparse.com/blog">Octoparse Blog</a>.</li>
     <li>Watch tutorials on the <a href="https://www.youtube.com/@Octoparsewebscraping">Octoparse YouTube channel</a>.</li>
+    <li>Read guides, use cases, and deep dives on the <a href="https://www.octoparse.com/blog">Octoparse Blog</a>.</li>
+    <li>Dig into the <a href="https://www.octoparse.com/docs">docs</a> for the REST API, CLI, and MCP server.</li>
+    <li>Ask questions and show what you built in our <a href="https://discord.gg/zCq9WDmEPa">Discord</a>.</li>
 </ul>
