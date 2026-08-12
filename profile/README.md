@@ -40,8 +40,8 @@
 
 <ul>
     <li>Find a ready-made scraper for the site you need among 600+ in the <a href="https://www.octoparse.com/template">Octoparse Template Store</a>.</li>
-    <li>Build your own without writing code in <a href="https://www.octoparse.com/download">Octoparse Desktop</a>, where auto-detect writes the rules for you.</li>
-    <li>Auto-detect pairs algorithmic page analysis with AI exploration, so it handles the sites no template covers.</li>
+    <li>Point <a href="https://www.octoparse.com/download">Octoparse Desktop</a> at a page and auto-detect turns it into an editable workflow — no code, and every step is yours to adjust.</li>
+    <li>Or let AI explore the site and build the scraper for you, then refine what it built in plain language.</li>
     <li>Run your tasks in the cloud — split across servers, on a schedule, with IP rotation.</li>
     <li>Drive it all from your own code with the <a href="https://www.octoparse.com/ai-open-platform">Octoparse API</a> and <a href="https://github.com/octoparse/octoparse-cli">CLI</a>.</li>
     <li>Connect your AI agents to live web data with the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
