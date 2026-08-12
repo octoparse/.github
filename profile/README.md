@@ -38,10 +38,10 @@
 <h2>Web Data for Everyone 🐙</h2>
 
 <ul>
-    <li><b>Starters</b> — Pick a ready-made scraper from the <a href="https://www.octoparse.com/template">Template Store</a>, or describe what you need and let Octoparse explore the site in your own browser.</li>
-    <li><b>Tinkerers</b> — Want control? Open <a href="https://www.octoparse.com/download">Octoparse Desktop</a>: auto-detect the page, then adjust any step.</li>
-    <li><b>Developers</b> — The same engine, as an <a href="https://www.octoparse.com/ai-open-platform">open platform</a>: REST API, CLI, and MCP server.</li>
-    <li><b>AI agents</b> — Install the <a href="https://github.com/octoparse/agent-skills">Octoparse agent plugin</a> — Agent Skills and MCP, bundled — and your agents collect web data on their own.</li>
+    <li><b>Starters</b> — New to scraping? Pick a ready-made scraper from the <a href="https://www.octoparse.com/template">Template Store</a>, or describe what you need and let Octoparse explore the site in your own browser.</li>
+    <li><b>Tinkerers</b> — Want control over every step? Open <a href="https://www.octoparse.com/download">Octoparse Desktop</a>: auto-detect the page, then adjust anything.</li>
+    <li><b>Developers</b> — Building Octoparse into your own product? The same engine, as an <a href="https://www.octoparse.com/ai-open-platform">open platform</a>: REST API, CLI, and MCP server.</li>
+    <li><b>AI agents</b> — Want your agents to fetch data on their own? Install the <a href="https://github.com/octoparse/agent-skills">Octoparse agent plugin</a> — Agent Skills and MCP, bundled.</li>
 </ul>
 
 <h2>Ready to Scale 🚀</h2>
