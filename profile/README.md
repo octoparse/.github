@@ -35,28 +35,16 @@
   </a>
 </h4>
 
-<h2>From Site to Pipeline 🐙</h2>
+
+<h2>Learn More About Octoparse 🐙</h2>
 
 <ul>
-    <li><b>Find a source</b> — 600+ ready-made scrapers in the <a href="https://www.octoparse.com/template">Template Store</a>: Amazon, Google Maps, LinkedIn, Indeed, and hundreds more.</li>
-    <li><b>Build one fast</b> — Let auto-detect write the selectors in <a href="https://www.octoparse.com/download">Octoparse Desktop</a>, or describe what you need and let Octoparse explore the site in your own browser.</li>
-    <li><b>Run it from your code</b> — REST API, CLI, and MCP server on the <a href="https://www.octoparse.com/ai-open-platform">open platform</a>, one API key.</li>
-    <li><b>Or hand it to an agent</b> — Install the <a href="https://github.com/octoparse/agent-skills">Octoparse Agent Plugin</a>: Agent Skills and MCP, bundled.</li>
-</ul>
-
-<h2>Ready to Scale 🚀</h2>
-
-<ul>
-    <li><b><a href="https://www.octoparse.com/pricing">Free, Standard, Professional</a></b> — Local extraction is free; the API, CLI, and MCP server come with credits. Upgrade to run in the cloud — split across servers, scheduled, with IP rotation.</li>
-    <li><b>Enterprise and Data Service</b> — Seats, a shared console, and task assets your team owns, on an SLA with usage-based pricing. Talk to us about <a href="https://www.octoparse.com/enterprise">Enterprise</a> or fully managed <a href="https://www.octoparse.com/data-service">Data Service</a>.</li>
-</ul>
-
-<h2>Learn More 🧑‍🎓</h2>
-
-<ul>
-    <li>Learn web scraping step by step at the <a href="https://helpcenter.octoparse.com/">Octoparse Help Center</a>.</li>
-    <li>Watch tutorials on the <a href="https://www.youtube.com/@Octoparsewebscraping">Octoparse YouTube channel</a>.</li>
-    <li>Read guides, use cases, and deep dives on the <a href="https://www.octoparse.com/blog">Octoparse Blog</a>.</li>
-    <li>Dig into the <a href="https://www.octoparse.com/docs">docs</a> for the REST API, CLI, and MCP server.</li>
-    <li>Ask questions and show what you built in our <a href="https://discord.gg/zCq9WDmEPa">Discord</a>.</li>
+    <li>Run a ready-made scraper for the site you need — 600+ of them in the <a href="https://www.octoparse.com/template">Octoparse Template Store</a>: Amazon, Google Maps, LinkedIn, Indeed, and hundreds more.</li>
+    <li>Build your own scraper without writing code in <a href="https://www.octoparse.com/download">Octoparse Desktop</a>, where auto-detect writes the selectors for you — or just describe what you want and let Octoparse explore the site.</li>
+    <li>Move your tasks to the cloud to run them split across servers, on a schedule, with IP rotation.</li>
+    <li>Drive everything from your own code with the <a href="https://www.octoparse.com/ai-open-platform">Octoparse REST API</a> and the <a href="https://github.com/octoparse/octoparse-cli">Octoparse CLI</a>, on a single API key.</li>
+    <li>Connect your AI agents to live web data with the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and our <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
+    <li>Hand the whole pipeline to us with <a href="https://www.octoparse.com/data-service">Data Service</a> — extraction, QA, and scheduled delivery run by the Octoparse team for <a href="https://www.octoparse.com/enterprise">enterprise</a> data needs.</li>
+    <li>Learn web scraping step by step at the <a href="https://helpcenter.octoparse.com/">Octoparse Help Center</a>, and dig into the <a href="https://www.octoparse.com/docs">docs</a> for the API, CLI, and MCP server.</li>
+    <li>Watch tutorials on the <a href="https://www.youtube.com/@Octoparsewebscraping">Octoparse YouTube channel</a>, read guides and deep dives on the <a href="https://www.octoparse.com/blog">Octoparse Blog</a>, and ask questions in our <a href="https://discord.gg/zCq9WDmEPa">Discord</a>.</li>
 </ul>
