@@ -47,7 +47,7 @@
 <h2>Ready to Scale 🚀</h2>
 
 <ul>
-    <li><b><a href="https://www.octoparse.com/pricing">Free, Standard, Professional</a></b> — Local extraction on the desktop app is free, and the API, CLI, and MCP server come with credits to try. Upgrade for scheduling, cloud extraction, and IP rotation.</li>
+    <li><b><a href="https://www.octoparse.com/pricing">Free, Standard, Professional</a></b> — Local extraction is free; the API, CLI, and MCP server come with credits. Upgrade to run in the cloud — split across servers, scheduled, with IP rotation.</li>
     <li><b>Enterprise and Data Service</b> — Seats, a shared console, and task assets your team owns, on an SLA with usage-based pricing. Talk to us about <a href="https://www.octoparse.com/enterprise">Enterprise</a> or fully managed <a href="https://www.octoparse.com/data-service">Data Service</a>.</li>
 </ul>
 
