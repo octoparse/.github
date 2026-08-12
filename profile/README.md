@@ -38,15 +38,15 @@
 <h2>Web Data for Everyone 🐙</h2>
 
 <ul>
-    <li><b>Starters</b> — Three ways to your first scraper: pick a ready-made one from the <a href="https://www.octoparse.com/template">Template Store</a>, tell Octoparse what you need on the web and let it explore the site right in your own browser, or open <a href="https://www.octoparse.com/download">Octoparse Desktop</a> and let auto-detect do the work — you just confirm.</li>
-    <li><b>Tinkerers</b> — Want control over how the data comes out? Open the auto-detected scraper in Octoparse Desktop, adjust any step, then scale up with scheduling, cloud extraction, and IP rotation.</li>
-    <li><b>Developers</b> — Drive Octoparse from your own stack with the <a href="https://github.com/octoparse/octoparse-cli">Octoparse CLI</a> — scriptable, schedulable, and at home in your pipeline.</li>
-    <li><b>AI agents</b> — Let your agents pull real-time web data themselves, through the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and ready-made <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
+    <li><b>Starters</b> — Pick a ready-made scraper from the <a href="https://www.octoparse.com/template">Template Store</a>, describe what you need and let Octoparse explore the site in your own browser, or let <a href="https://www.octoparse.com/download">Octoparse Desktop</a> auto-detect the page for you.</li>
+    <li><b>Tinkerers</b> — Want control? Open the auto-detected scraper in Octoparse Desktop and adjust any step.</li>
+    <li><b>Developers</b> — Drive Octoparse from your own stack with the <a href="https://github.com/octoparse/octoparse-cli">Octoparse CLI</a>.</li>
+    <li><b>AI agents</b> — Let your agents pull web data themselves, through the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and ready-made <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
 </ul>
 
 <h2>Ready to Scale 🚀</h2>
 
-<p>However you build, you can run it as a team on the <a href="https://www.octoparse.com/enterprise">Enterprise plan</a> — every task asset owned by you, managed together in one console. Or skip building entirely: <a href="https://www.octoparse.com/data-service">Octoparse Data Service</a> is fully managed, end to end.</p>
+<p><a href="https://www.octoparse.com/pricing">Start free</a>, then grow into it: Standard and Professional add scheduling, cloud extraction, and IP rotation, and <a href="https://www.octoparse.com/enterprise">Enterprise</a> adds seats, a shared console, and task assets your team owns. Or skip building entirely — <a href="https://www.octoparse.com/data-service">Octoparse Data Service</a> is fully managed, end to end.</p>
 
 <h2>Learn More 🧑‍🎓</h2>
 
