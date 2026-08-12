@@ -38,7 +38,7 @@
 <h2>Web Data for Everyone 🐙</h2>
 
 <ul>
-    <li><b>Starters</b> — Three ways to your first scraper: pick a ready-made one from the <a href="https://www.octoparse.com/template">Template Store</a>, tell Octoparse what you need on the web and let it explore the site right in your own browser, or open Octoparse Desktop and let auto-detect do the work — you just confirm.</li>
+    <li><b>Starters</b> — Three ways to your first scraper: pick a ready-made one from the <a href="https://www.octoparse.com/template">Template Store</a>, tell Octoparse what you need on the web and let it explore the site right in your own browser, or open <a href="https://www.octoparse.com/download">Octoparse Desktop</a> and let auto-detect do the work — you just confirm.</li>
     <li><b>Tinkerers</b> — Want control over how the data comes out? Open the auto-detected scraper in Octoparse Desktop, adjust any step, then scale up with scheduling, cloud extraction, and IP rotation.</li>
     <li><b>Developers</b> — Drive Octoparse from your own stack with the <a href="https://github.com/octoparse/octoparse-cli">Octoparse CLI</a> — scriptable, schedulable, and at home in your pipeline.</li>
     <li><b>AI agents</b> — Let your agents pull real-time web data themselves, through the <a href="https://github.com/octoparse/octoparse-mcp">Octoparse MCP server</a> and ready-made <a href="https://github.com/octoparse/agent-skills">Agent Skills</a>.</li>
